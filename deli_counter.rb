@@ -1,5 +1,3 @@
-# Write your code here.
-# Write your code here.
 require 'pry'
 def line(katz_deli)
    if katz_deli==[]
